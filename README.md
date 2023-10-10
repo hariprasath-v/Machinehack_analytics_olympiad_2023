@@ -10,7 +10,7 @@
 
 ### Leaderboard Rank is 5/158
 
-### The Evaluation Metric is Accuracy.
+### The Evaluation Metric is roc_auc_score.
 
 ### File information
  
